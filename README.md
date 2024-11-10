@@ -1,6 +1,6 @@
 # **C++ WinForms Calculator**
 
-A simple calculator application built using C++ and WinForms (Windows Forms). This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division, with a clean and intuitive GUI.
+A simple calculator application built using C++ and WinForms (Windows Forms). This project allows to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ##  **Features**
 - Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division.
