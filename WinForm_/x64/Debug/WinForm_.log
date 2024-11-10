@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\qwert\source\repos\WinForm_\WinForm_\MyForm.h(505,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\qwert\source\repos\WinForm_\WinForm_\MyForm.h(511,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\qwert\source\repos\WinForm_\WinForm_\MyForm.h(540,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WinForm_.vcxproj -> C:\Users\qwert\source\repos\WinForm_\x64\Debug\WinForm_.exe

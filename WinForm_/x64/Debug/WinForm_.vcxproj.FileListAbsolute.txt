@@ -1,0 +1,3 @@
+C:\Users\qwert\source\repos\WinForm_\WinForm_\x64\Debug\WinForm_.vcxproj.AssemblyReference.cache
+C:\Users\qwert\source\repos\WinForm_\WinForm_\x64\Debug\WinForm.MyForm.resources
+C:\Users\qwert\source\repos\WinForm_\WinForm_\x64\Debug\WinForm_.vcxproj.GenerateResource.cache
